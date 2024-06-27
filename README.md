@@ -31,3 +31,10 @@ Click on Restore to restore the necessary packages.
 ## 5. Build and Run:
 
 Press F5 or click on the Start Debugging button to build and run the application.
+# GitHub Repository
+
+https://github.com/WoLF915/POE-Part-3
+
+# Changes Recommended by Lecturer
+
+There were no changes that the lecturer had made based on the rubrik that I recieved back for my 2nd part of the POE.
